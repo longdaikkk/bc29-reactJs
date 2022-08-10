@@ -1,0 +1,17 @@
+.screen{
+    border-bottom: 50px solid #17a2b8;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    height: 100;
+    width:75%;
+    filter: drop-shadow(4px 30px 20px rgba(255, 255, 255, 0.5));
+    font-size: 25px;
+    color: #fff;
+    p{
+        z-index: 1;
+        color: white;
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+}

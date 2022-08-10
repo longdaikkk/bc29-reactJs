@@ -1,0 +1,15 @@
+.navbar-brand{
+    width: 5%;
+    .logo{
+        width: 100%;
+    }
+}
+
+.nav-link{
+    font-size: 1.5rem;
+    color: #17a2b8 !important;
+    &:hover{
+        color: #000000 !important;
+    }
+}
+

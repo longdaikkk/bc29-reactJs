@@ -1,0 +1,6 @@
+B1: install axios react-router-dom bootstap4
+B2: setup bootstap4 (index.js)
+B3: Tạo layout
+B4: Tạo page Home
+B5: Tạo route index
+b6: Add router vào App.js
